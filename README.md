@@ -1,0 +1,2 @@
+# LJException
+Crash protected
